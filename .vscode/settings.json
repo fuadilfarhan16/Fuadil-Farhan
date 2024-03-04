@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 18,
+    "window.zoomLevel": 0.4,
+    "workbench.colorTheme": "Dracula",
+    "editor.wordWrap": "on",
+    "css.styleSheets": ["src/**/*.css"],
+
+}
